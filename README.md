@@ -1,6 +1,9 @@
 
 
-# garmin-connect  
+# garmin-connect-cn
+
+based on [garmin-connect](https://github.com/Pythe1337N/garmin-connect)
+
 A powerful JavaScript library for connecting to Garmin Connect for sending and receiving health and workout data. It comes with some predefined methods to get and set different kinds of data for your Garmin account, but also have the possibility to make [custom requests](#custom-requests) `GET`, `POST` and `PUT` are currently supported. This makes it easy to implement whatever may be missing to suite your needs.
 
 ## Prerequisites
