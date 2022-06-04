@@ -1,5 +1,5 @@
-const GC_MODERN = 'https://connect.garmin.com/modern';
-const GARMIN_SSO_ORIGIN = 'https://sso.garmin.com';
+const GC_MODERN = 'https://connect.garmin.cn/modern';
+const GARMIN_SSO_ORIGIN = 'https://sso.garmin.cn';
 const GARMIN_SSO = `${GARMIN_SSO_ORIGIN}/sso`;
 const BASE_URL = `${GC_MODERN}/proxy`;
 const SIGNIN_URL = `${GARMIN_SSO}/signin`;
