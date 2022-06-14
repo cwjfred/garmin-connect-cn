@@ -16,11 +16,11 @@ This library will require you to add a configuration file to your project root c
 ```
 ## How to install
 ```shell
-$ npm install garmin-connect
+$ npm install @gooin/garmin-connect-cn
 ```
 ## How to use
 ```js
-const { GarminConnect } = require('garmin-connect');
+const { GarminConnect } = require('@gooin/garmin-connect-cn');
 // Create a new Garmin Connect Client
 const GCClient = new GarminConnect();
 // Uses credentials from garmin.config.json or uses supplied params
